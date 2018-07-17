@@ -1,0 +1,13 @@
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.exe.config
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.exe
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.pdb
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.exe
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\bin\Debug\Lesson 8.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.csprojAssemblyReference.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Lesson 8\Lesson 8\obj\Debug\Lesson 8.pdb

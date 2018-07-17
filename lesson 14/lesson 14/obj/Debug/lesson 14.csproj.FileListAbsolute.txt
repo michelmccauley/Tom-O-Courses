@@ -1,0 +1,6 @@
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\bin\Debug\lesson 14.exe.config
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\bin\Debug\lesson 14.exe
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\bin\Debug\lesson 14.pdb
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\obj\Debug\lesson 14.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\obj\Debug\lesson 14.exe
+C:\Users\Michel\Documents\GitHub\UDemy\CHSARP\lesson 14\lesson 14\obj\Debug\lesson 14.pdb
